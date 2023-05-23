@@ -1,0 +1,104 @@
+One Tier
+Two Tier
+Three Tier Architecture
+=======================
+Basically, we have three layers 
+1.Presentation Layer / Client Side / Front End
+
+(UI Technologies)
+a.HTML 
+  1.Types of Tags
+  2.Element Specific Tags 
+  3.List Tags
+  4.Form Tags
+  5.DataList
+  6.Dropdown
+
+b.CSS
+  1.Basics(Types of Styling)
+    Inline, Internal, External 
+
+  Layouts:
+  2.Box Model (Legacy)
+  3.Flex Box
+  4.Grid System
+
+  5.Types of Postions
+  6.Transitions 
+  7.Animations
+  8.Media Queries
+
+c.JavaScript:
+
+d.Bootstrap:
+
+e.JQuery
+f.AJAX
+
+F/M 
+===
+React JS- Facebook (JavaScript)
+Angular - Google (TypeScript)
+Vue JS 
+
+2.Middleware / Server Side / Backend
+a.Java 
+b.Python
+c.JavaScript(node)
+d.PHP 
+e.C and C++
+f.CSharp
+g.Golang
+
+3.Database
+SQl and NoSQL
+1.MYSQL
+2.Postgresql
+3.Oracle
+
+HTML : Hyper Text Markup Language
+=================================
+HTML3 (tables)
+HTML4 (div tags)
+HTML5 (Schematic Tags)
+
+Types of Tags
+=============
+1.Paried Tags 
+2.Unpaired Tags 
+
+Types of Elements 
+=================
+1. Inline Elements 
+2. Block Level Elements 
+
+Types of Applications
+=====================
+We are having two types of applications
+1.Static Applications
+  HTML and CSS is enough (Text is fixed, we can have text and images)
+2.Dynamic Applications
+  HTML and CSS and JavaScript 
+  We can perform user end operations 
+
+Git Commands
+============ 
+Clone:
+
+git clone "url" 
+
+Push:
+git status  
+git add . 
+git commmit -m "v1"
+git push
+
+Pull:
+git fetch 
+git pull 
+
+
+
+
+
+
